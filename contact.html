@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Coffeed Heaven Bean - Sign In</title>
-    <link rel="stylesheet" href="../css/main.css" />
+    <title>Coffeed Heaven Bean - Contact</title>
+    <link rel="stylesheet" href="./main.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&family=Marck+Script&display=swap"
       rel="stylesheet"
@@ -34,7 +34,7 @@
                 Sign In
               </a>
               <span class="menu-nav__link" id="slash">/</span>
-              <a href="sign-up.html" class="sign-up menu-nav__link active">
+              <a href="sign-up.html" class="sign-up menu-nav__link">
                 Sign Up
               </a>
             </li>
@@ -54,7 +54,7 @@
                 Services
               </a>
             </li>
-            <li class="menu-nav__item">
+            <li class="menu-nav__item active">
               <a href="contact.html" class="menu-nav__link">
                 Contact
               </a>
@@ -104,40 +104,52 @@
     </header>
 
     <main>
-      <section class="sign-up">
+      <section class="contact">
         <div class="pic-area">
           <div class="pic-area-text">
-            <div id="login-box">
-              <form
-                id="login-form"
-                name="login-form"
-                action="index.html"
-                method="post"
-              >
-                <label>Email: </label> <br />
-                <input
-                  type="email"
-                  name="email"
-                  id="emailid"
-                  pattern="/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/"
-                  required
-                />
-                <br />
-                <label>Username: </label> <br />
-                <input
-                  type="text"
-                  name="userid"
-                  id="userid"
-                  pattern="[a-zA-Z0-9]+"
-                  required
-                />
-                <!-- minlength="10" does not work probably bc you need to use the submit button--><br />
-                <label>Password: </label> <br />
-                <input type="password" name="pswrd" id="pswrd" /><br />
-                <br />
-              </form>
-              <div id="username-display"></div>
-              <button class="btn-order" id="sign-up-btn">Sign Up</button>
+            <h2>Methods to</h2>
+            <h1 class="home__name">
+              Contact Us
+            </h1>
+            <h3>Email, Phone call, or Block away.</h3>
+          <div id="mc_embed_shell">
+              <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+          <div id="mc_embed_signup">
+            <form action="https://njit.us12.list-manage.com/subscribe/post?u=b16fa739fa529860c36a06a2c&amp;id=b54faf9cd1&amp;f_id=00d546e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+                    <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                    <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
+                <div id="mce-responses" class="clear foot">
+                    <div class="response" id="mce-error-response" style="display: none;"></div>
+                    <div class="response" id="mce-success-response" style="display: none;"></div>
+                </div>
+            <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                <input type="text" name="b_b16fa739fa529860c36a06a2c_b54faf9cd1" tabindex="-1" value="">
+            </div>
+                <div class="optionalParent">
+                    <div class="clear foot">
+                        <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                        <p style="margin: 0px auto;"><a href="http://eepurl.com/ixhiEg" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;"></span></a></p>
+                    </div>
+                </div>
+            </div>
+          </form>
+          </div>
+          <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>  
+          
+          <div class="sections">
+            <div class="sections-section">
+              <i class="fas fa-envelope"></i>Email 
+              <p>CoffeedHeavenBean@email.com</p>
+            </div>  
+            <div class="sections-section">
+                <i class="fas fa-mobile-alt"></i> Phone
+                <p>+1 (541) 755-5555</p>
+              </div>
+              <div class="sections-section">
+                <i class="fas fa-map-marker-alt"></i> Address
+                <p>55th and 2nd New York, NY</p>
+              </div>
             </div>
             <div class="icons">
               <a href="#!">
