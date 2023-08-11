@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Coffeed Heaven Bean<br/>
-=======
+
 # Coffeed-Heaven-Bean-Cafe-Project
 
->>>>>>> dd5a133e1612708397f8ce3dca16228148672844
+
 <hr/>
 <br/>
 
@@ -36,7 +33,3 @@ Link to Website: https://jdhorajia84.github.io/Coffeed-Heaven-bean-Cafe-Project/
 Link to Figma: https://www.figma.com/file/ax5eJNxJfQ9ZD1U70yNExX/Coffeed-Heaven-Bean?type=design&node-id=0%3A1&mode=design&t=NhmT5nynNVC7H8G8-1
 
 Link to Presentaion:<br/> https://clipchamp.com/watch/3Tkg64XL7iW
-<br/>
-=======
-
->>>>>>> 14e0ff72516c625e9e58454bb636618f58f9d02b
