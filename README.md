@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Coffeed Heaven Bean<br/>
 =======
 # Coffeed-Heaven-Bean-Cafe-Project
@@ -36,3 +37,6 @@ Link to Figma: https://www.figma.com/file/ax5eJNxJfQ9ZD1U70yNExX/Coffeed-Heaven-
 
 Link to Presentaion:<br/> https://clipchamp.com/watch/3Tkg64XL7iW
 <br/>
+=======
+
+>>>>>>> 14e0ff72516c625e9e58454bb636618f58f9d02b
