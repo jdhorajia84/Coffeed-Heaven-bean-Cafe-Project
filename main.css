@@ -14,7 +14,7 @@
     overflow:hidden;
     align-items:center;
     text-align:center;
-    background:linear-gradient(to right, rgba(149, 168, 131, 0.9), rgba(128,128,128,0.3)),url("../img/menu-bg.jpg") center top no-repeat;
+    background:linear-gradient(to right, rgba(149, 168, 131, 0.9), rgba(128,128,128,0.3)),url("img/menu-bg.jpg") center top no-repeat;
     background-size:cover;
 }
 
@@ -126,7 +126,7 @@
     padding-top:40vh;
     overflow:hidden;
     align-items:center;text-align:center;
-    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("../img/Office-Coffee.png") center top no-repeat;background-size:cover;
+    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("img/Office-Coffee.png") center top no-repeat;background-size:cover;
     font-family:"Marck Script", cursive, bold;
 }
 
@@ -223,7 +223,7 @@
     overflow:hidden;
     align-items:center;
     text-align:center;
-    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("../img/services-bg.jpg") center top no-repeat;
+    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("img/services-bg.jpg") center top no-repeat;
     background-size:cover;
     font-family:"Marck Script", cursive;
 }
@@ -309,7 +309,7 @@
     overflow:hidden;
     align-items:center;
     text-align:center;
-    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("../Img/coffee-png.png") center top no-repeat;
+    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("Img/coffee-png.png") center top no-repeat;
     background-size:cover;
     font-family:"Marck Script", cursive;
     transition:all 0.5s ease-in-out;
@@ -396,7 +396,7 @@
     overflow:hidden;
     align-items:center;
     text-align:center;
-    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("../img/sign-in-bg.jpg") center top no-repeat;
+    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("img/sign-in-bg.jpg") center top no-repeat;
     background-size:cover;
     font-family:"Marck Script", cursive;
     transition:all 0.5s ease-in-out;
@@ -494,7 +494,7 @@
     overflow:hidden;
     align-items:center;
     text-align:center;
-    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("../img/sign-up-bg.jpg") center top no-repeat;
+    background:linear-gradient(to right, rgba(128,128,128,0.9), rgba(128,128,128,0.3)),url("img/sign-up-bg.jpg") center top no-repeat;
     background-size:cover;
     font-family:"Marck Script", cursive;
     transition:all 0.5s ease-in-out;

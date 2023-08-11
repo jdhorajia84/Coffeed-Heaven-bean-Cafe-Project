@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Coffeed Heaven Bean<br/>
+=======
+# Coffeed-Heaven-Bean-Cafe-Project
+
+>>>>>>> dd5a133e1612708397f8ce3dca16228148672844
 <hr/>
 <br/>
 
